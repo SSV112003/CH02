@@ -1,0 +1,98 @@
+ul{
+    list-style-type:none;
+    display: flex;
+  
+}
+li{
+    padding: 0px 20px;
+   
+    
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+}
+button{
+    color: white;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+.button{
+    
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 0px 20px;
+    text-align: center;
+   
+}
+section{
+    padding: 10px 20px;
+    display: flex;
+}
+.align{
+    margin: 30px;
+}
+.photo{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+    
+}
+.illustration{
+    position: relative;
+    bottom: 500px;
+    left: 1250px;
+    background-color:aquamarine;
+    color: black;
+}
+.graphic{
+    position: relative;
+    bottom: 375px;
+    left: 1150px;
+    color: black;
+    background-color: aquamarine;
+}
+.Creative{
+    position: relative;
+    bottom:250px ;
+    left:1000px ;
+    background-color: aquamarine;
+    color: black;
+    
+    
+}
+svg{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(105, 143, 143);
+    border-radius: 50%;
+    padding: 10px 10px;
+    position: absolute;
+    bottom: 650px;
+    left: 1230px;
+}
+.svg2{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(105, 143, 143);
+    border-radius: 50%;
+    padding: 10px 10px;
+    position: absolute;
+    bottom: 520px;
+    left: 1240px;
+}
+.svg3{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(105, 143, 143);
+    border-radius: 50%;
+    padding: 10px 10px;
+    position: absolute;
+    bottom: 400px;
+    left: 1225px;
+}
+.project{
+    background-color: white;
+    color: black;
+}
